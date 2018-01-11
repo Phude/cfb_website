@@ -3,7 +3,7 @@ import shutil
 import jinja2
 
 template_path = 'templates'
-output_path = 'output/'
+output_path = 'docs/'
 static_path = 'static/'
 
 def render(filename, context):
